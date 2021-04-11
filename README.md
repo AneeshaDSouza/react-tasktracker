@@ -1,4 +1,4 @@
-#React Crash Course 2021 (Task Tracker App)
+React Crash Course 2021 (Task Tracker App)
 This is the project referred from the YouTube crash course by Traversymedia. It includes the react ui as well as JSON-server for our mock backend
 
 Usage
